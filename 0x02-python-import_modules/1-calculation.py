@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
-    """imports functions from the file calculator_1.py,
-    does some Maths, and prints the result."""
+    """Print the sum, difference, multiple and quotient of 10 and 5."""
     from calculator_1 import add, sub, mul, div
 
     a = 10
